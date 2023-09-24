@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/date-countdown.github.io/static/css/main.eee6e983.css",
+    "main.js": "/date-countdown.github.io/static/js/main.6cc4abe0.js",
+    "static/js/787.ffa0369f.chunk.js": "/date-countdown.github.io/static/js/787.ffa0369f.chunk.js",
+    "index.html": "/date-countdown.github.io/index.html",
+    "main.eee6e983.css.map": "/date-countdown.github.io/static/css/main.eee6e983.css.map",
+    "main.6cc4abe0.js.map": "/date-countdown.github.io/static/js/main.6cc4abe0.js.map",
+    "787.ffa0369f.chunk.js.map": "/date-countdown.github.io/static/js/787.ffa0369f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eee6e983.css",
+    "static/js/main.6cc4abe0.js"
+  ]
+}
